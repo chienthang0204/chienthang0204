@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Thang
-- 🌱 I’m currently learning at Ho Chi Minh Open University
+- 👋 Hi, I’m Dang Chien Thang
+- 🌱 I’m currently learning Information Technology at Ho Chi Minh Open University
